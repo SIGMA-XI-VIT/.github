@@ -1,6 +1,5 @@
 # Sigma Xi VIT
 <p align="center"> <img src="https://github.com/SIGMA-XI-VIT/.github/raw/main/sigma_xi.gif" alt="Sigma Xi GIF"> </p>
-https://user-images.githubusercontent.com/74012511/194166867-d702e374-f977-4fe8-999a-ab63eeefa878.png
 
 <hr>
 
